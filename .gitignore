@@ -1,0 +1,4 @@
+# Logs
+back/logs/
+back/logs/*.log
+back/logs/*.log.*

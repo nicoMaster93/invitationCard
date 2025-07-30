@@ -1,0 +1,422 @@
+{
+    "totalConfirmados": 44,
+    "detailConfirmados": [
+        "Adriana G\u00f3mez",
+        "Brian Ortega",
+        "Carlos Alberto Hernandez",
+        "Carlos Daniel Hernandez Duque",
+        "Claudia Garcia",
+        "Cristian Granados",
+        "Deisy Montes",
+        "Diego Pineda",
+        "Edgar Alfredo Montes",
+        "Emily Tatiana Montes Buitrago",
+        "Esperanza Garcia",
+        "Ingrid Veronica G\u00f3mez",
+        "Isabel Garcia",
+        "Jacqueline Garcia",
+        "Jeimmy Paola G\u00f3mez Garcia",
+        "Jenny Hastamorir",
+        "Jessica Nathalia Acu\u00f1a Duque",
+        "Jhon Freddy Rodriguez",
+        "Jhonny Ardila",
+        "Johana Sanchez",
+        "Juan David ",
+        "Juan Francisco Garcia ",
+        "Juan Gil",
+        "Karen Dayana Sanabria",
+        "Laura Jazmin Rodriguez",
+        "L\u00edgia G\u00f3mez",
+        "Lorena Hern\u00e1ndez Prado",
+        "Luis Enrrique Coronado",
+        "Luisa Fernanda S\u00e1nchez",
+        "Luz Nancy Duque",
+        "Maria del Pilar Rojas",
+        "Mary Pineda",
+        "Melany Sofia Monites Buitrago",
+        "Nancy Prado",
+        "Nathaly Jimenez",
+        "Oscar Sarmiento",
+        "Paola Pi\u00f1eros",
+        "Sebastian G\u00f3mez",
+        "Suslay Palma",
+        "Veronica Garcia Ramirez",
+        "Viviana Ximena Duque",
+        "Yuli Andrea Maldonado",
+        "L\u00eddia G\u00f3mez",
+        "Lihan y Nico (Papitos)"
+    ],
+    "totalSinConfirmar": 6,
+    "detailSinConfirmados": [
+        "Adriana Vargas",
+        "Alex Medina G\u00f3mez",
+        "Catalina Bejarano",
+        "Eduardo Hernandez",
+        "Harol Davila",
+        "William Medina G\u00f3mez"
+    ],
+    "totalSinAsistir": 18,
+    "detailSinAsistir": [
+        "Brandon S\u00e1nchez",
+        "Diego Andres Rodriguez G\u00f3mez",
+        "Diego Garcia Rodriguez",
+        "Doris Rodriguez",
+        "Jhoanna Montes",
+        "Jhon Manuel",
+        "Jose Alexasander Rojas",
+        "Juliana Andrea Pinzon Garcia",
+        "Kevin Acosta",
+        "Liliana Rojas",
+        "Luis Santiago Rios Montes",
+        "Marta Maritza Duque",
+        "Monica Rodriguez G\u00f3mez",
+        "Roberto Guerrero",
+        "Tatiana Contreras",
+        "Veronica Andrea Acu\u00f1a Duque",
+        "Ximena Valbuena",
+        "Natalia Eugenia Sandoval"
+    ],
+    "totalInvitados": 68,
+    "totalAcompanantes": 27,
+    "detailAcompanantes": [
+        {
+            "guest": "Adriana G\u00f3mez",
+            "companions": [
+                {
+                    "guest": "Brandon Aponte"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Carlos Alberto Hernandez",
+            "companions": [
+                {
+                    "guest": "Jhosua Hern\u00e1ndez "
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Cristian Granados",
+            "companions": [
+                {
+                    "guest": "Tatiana Leon"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Deisy Montes",
+            "companions": [
+                {
+                    "guest": "David Mateo Mejia "
+                },
+                {
+                    "guest": "David Lizarazo "
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Edgar Alfredo Montes",
+            "companions": [
+                {
+                    "guest": "YEIMY HERNANDEZ "
+                },
+                {
+                    "guest": "ANGEL HERNANDEZ "
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Ingrid Veronica G\u00f3mez",
+            "companions": [
+                {
+                    "guest": "Lorena MontillaGomez "
+                },
+                {
+                    "guest": "Luisa montilla G\u00f3mez "
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Isabel Garcia",
+            "companions": [
+                {
+                    "guest": "Johan Felipe Pinto "
+                },
+                {
+                    "guest": "Carlos cortes "
+                },
+                {
+                    "guest": "Jorge Vel\u00e1zquez "
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Jacqueline Garcia",
+            "companions": [
+                {
+                    "guest": "Wilmar almonacid"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Jeimmy Paola G\u00f3mez Garcia",
+            "companions": [
+                {
+                    "guest": "Miguel Camen "
+                },
+                {
+                    "guest": "Nicolas Camen"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Jenny Hastamorir",
+            "companions": [
+                {
+                    "guest": "Gonzalo pirajan"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Jhon Freddy Rodriguez",
+            "companions": [
+                {
+                    "guest": "Diana murcia"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Juan David ",
+            "companions": [
+                {
+                    "guest": "Carolina Ca\u00f1izales"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "L\u00edgia G\u00f3mez",
+            "companions": [
+                {
+                    "guest": "Andr\u00e9s Gomez"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Lorena Hern\u00e1ndez Prado",
+            "companions": [
+                {
+                    "guest": "Alexis Garc\u00eda "
+                },
+                {
+                    "guest": "Juan Esteban Garc\u00eda "
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Luis Enrrique Coronado",
+            "companions": [
+                {
+                    "guest": "Laura florez"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Luisa Fernanda S\u00e1nchez",
+            "companions": [
+                {
+                    "guest": "Cristian giraldo"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Luz Nancy Duque",
+            "companions": [
+                {
+                    "guest": "Olga Contreras "
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Maria del Pilar Rojas",
+            "companions": [
+                {
+                    "guest": "Dayana garcia"
+                },
+                {
+                    "guest": "Lizeth zamudio"
+                },
+                {
+                    "guest": "Juliana rojas"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Mary Pineda",
+            "companions": [
+                {
+                    "guest": "Anyellina Rubio"
+                },
+                {
+                    "guest": "H\u00e9ctor Pinilla"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Nancy Prado",
+            "companions": [
+                {
+                    "guest": "Alaid Mejia"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Nathaly Jimenez",
+            "companions": [
+                {
+                    "guest": "Julyan Rojas"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Paola Pi\u00f1eros",
+            "companions": [
+                {
+                    "guest": "Yonhatan Nieto"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Sebastian G\u00f3mez",
+            "companions": [
+                {
+                    "guest": "Catherine Acosta"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Suslay Palma",
+            "companions": [
+                {
+                    "guest": "Angel Lozano "
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Yuli Andrea Maldonado",
+            "companions": [
+                {
+                    "guest": "Jos\u00e9 G\u00f3mez "
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "L\u00eddia G\u00f3mez",
+            "companions": [
+                {
+                    "guest": "M\u00f3nica Camargo "
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        },
+        {
+            "guest": "Lihan y Nico (Papitos)",
+            "companions": [
+                {
+                    "guest": "Cristopher pepito"
+                }
+            ],
+            "confirm_assistance": true,
+            "message_not_assistance": ""
+        }
+    ],
+    "detailAcompanantesNames": [
+        "Brandon Aponte",
+        "Jhosua Hern\u00e1ndez ",
+        "Tatiana Leon",
+        "David Mateo Mejia ",
+        "David Lizarazo ",
+        "YEIMY HERNANDEZ ",
+        "ANGEL HERNANDEZ ",
+        "Lorena MontillaGomez ",
+        "Luisa montilla G\u00f3mez ",
+        "Johan Felipe Pinto ",
+        "Carlos cortes ",
+        "Jorge Vel\u00e1zquez ",
+        "Wilmar almonacid",
+        "Miguel Camen ",
+        "Nicolas Camen",
+        "Gonzalo pirajan",
+        "Diana murcia",
+        "Carolina Ca\u00f1izales",
+        "Andr\u00e9s Gomez",
+        "Alexis Garc\u00eda ",
+        "Juan Esteban Garc\u00eda ",
+        "Laura florez",
+        "Cristian giraldo",
+        "Olga Contreras ",
+        "Dayana garcia",
+        "Lizeth zamudio",
+        "Juliana rojas",
+        "Anyellina Rubio",
+        "H\u00e9ctor Pinilla",
+        "Alaid Mejia",
+        "Julyan Rojas",
+        "Yonhatan Nieto",
+        "Catherine Acosta",
+        "Angel Lozano ",
+        "Jos\u00e9 G\u00f3mez ",
+        "M\u00f3nica Camargo ",
+        "Cristopher pepito"
+    ]
+}
