@@ -6,8 +6,8 @@ Tarjetas de invitación para cualquier tipo de evento.
 
 Este proyecto permite generar tarjetas de invitación personalizadas para eventos como baby showers, bodas, cumpleaños, entre otros. Está dividido en dos partes principales:
 
-- **Front**: Interfaz de usuario para diseñar y personalizar las tarjetas.
-- **Back**: API para manejar la lógica del negocio, almacenamiento y generación de las tarjetas.
+- **Front**: Interfaz de usuario para diseñar y personalizar las tarjetas (HTML, CSS y JavaScript).
+- **Back**: API para manejar la lógica del negocio, almacenamiento y generación de las tarjetas (PHP y MySQL).
 
 ## Estructura del Proyecto
 
@@ -29,7 +29,7 @@ baby-shower/
 ## Uso
 
 1. Configura y ejecuta el backend siguiendo las instrucciones en `back/README.md`.
-2. Configura y ejecuta el frontend siguiendo las instrucciones en `front/README.md`.
+2. Abre el archivo `index.html` en la carpeta `front` para acceder al frontend.
 3. Accede a la aplicación desde tu navegador para comenzar a diseñar tarjetas.
 
 ## Contribuciones

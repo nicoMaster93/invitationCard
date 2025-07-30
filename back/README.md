@@ -4,53 +4,32 @@ Este módulo contiene la lógica del negocio, almacenamiento y generación de ta
 
 ## Tecnologías
 
-- **Lenguaje**: Node.js
-- **Framework**: Express.js
-- **Base de Datos**: MongoDB (o la base de datos configurada)
-- **Autenticación**: JWT (si aplica)
+- **Lenguaje**: PHP
+- **Framework**: Ninguno (PHP puro)
+- **Base de Datos**: MySQL
 
 ## Instalación
 
-1. Navega a la carpeta `back`:
-   ```bash
-   cd back
-   ```
-2. Instala las dependencias:
-   ```bash
-   npm install
-   ```
+1. Asegúrate de tener un servidor web como Apache o Nginx con soporte para PHP.
+2. Configura la base de datos MySQL utilizando el archivo `database.sql` proporcionado.
+3. Configura las variables de entorno en un archivo `.env` (si aplica).
 
 ## Uso
 
-1. Configura las variables de entorno en un archivo `.env`:
-   ```
-   PORT=5000
-   DB_URI=<tu-uri-de-base-de-datos>
-   JWT_SECRET=<tu-secreto-jwt>
-   ```
-2. Inicia el servidor:
-   ```bash
-   npm start
-   ```
+1. Copia los archivos del backend a la carpeta raíz de tu servidor web.
+2. Asegúrate de que el servidor web esté configurado para servir archivos PHP.
+3. Accede al backend desde tu navegador o cliente HTTP.
 
 ## Estructura del Código
 
 ```
 back/
-├── src/
-│   ├── controllers/  # Controladores de las rutas
-│   ├── models/       # Modelos de la base de datos
-│   ├── routes/       # Definición de las rutas
-│   ├── middlewares/  # Middlewares personalizados
-│   └── app.js        # Configuración principal del servidor
-└── config/           # Configuración de la base de datos y variables
+├── controllers/  # Controladores de las rutas
+├── models/       # Modelos de la base de datos
+├── routes/       # Definición de las rutas
+├── middlewares/  # Middlewares personalizados
+└── index.php     # Punto de entrada principal
 ```
-
-## Scripts Disponibles
-
-- `npm start`: Inicia el servidor en modo producción.
-- `npm run dev`: Inicia el servidor en modo desarrollo.
-- `npm test`: Ejecuta las pruebas (si están configuradas).
 
 ## Contribuciones
 

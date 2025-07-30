@@ -4,48 +4,28 @@ Este módulo contiene la interfaz de usuario para diseñar y personalizar tarjet
 
 ## Tecnologías
 
-- **Framework**: React.js
-- **Estilos**: CSS/SCSS
-- **Gestión de estado**: Redux (si aplica)
-- **Automatización**: Webpack o Vite
+- **Lenguaje**: JavaScript
+- **Estilos**: CSS
+- **HTML**: Estructura de las páginas
 
 ## Instalación
 
-1. Navega a la carpeta `front`:
-   ```bash
-   cd front
-   ```
-2. Instala las dependencias:
-   ```bash
-   npm install
-   ```
+No se requiere instalación, ya que el frontend es un conjunto de archivos estáticos.
 
 ## Uso
 
-1. Inicia el servidor de desarrollo:
-   ```bash
-   npm start
-   ```
-2. Abre tu navegador en `http://localhost:3000` (o el puerto configurado).
+1. Navega a la carpeta `front` y abre el archivo `index.html` en tu navegador.
+2. Personaliza las tarjetas de invitación desde la interfaz.
 
 ## Estructura del Código
 
 ```
 front/
-├── src/
-│   ├── components/   # Componentes reutilizables
-│   ├── pages/        # Páginas principales
-│   ├── assets/       # Imágenes, fuentes, etc.
-│   ├── store/        # Configuración de Redux (si aplica)
-│   └── App.js        # Componente raíz
-└── public/           # Archivos estáticos
+├── css/         # Archivos de estilos
+├── js/          # Archivos JavaScript
+├── assets/      # Imágenes, fuentes, etc.
+└── index.html   # Página principal
 ```
-
-## Scripts Disponibles
-
-- `npm start`: Inicia el servidor de desarrollo.
-- `npm build`: Genera una versión optimizada para producción.
-- `npm test`: Ejecuta las pruebas (si están configuradas).
 
 ## Contribuciones
 
